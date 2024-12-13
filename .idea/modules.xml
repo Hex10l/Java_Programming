@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CShuffler/CShuffler.iml" filepath="$PROJECT_DIR$/CShuffler/CShuffler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client/Client.iml" filepath="$PROJECT_DIR$/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client2/Client2.iml" filepath="$PROJECT_DIR$/Client2/Client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClientManager/ClientManager.iml" filepath="$PROJECT_DIR$/ClientManager/ClientManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fiteness Tracker/Fiteness Tracker.iml" filepath="$PROJECT_DIR$/Fiteness Tracker/Fiteness Tracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fitness_Tracker/Fitness_Tracker.iml" filepath="$PROJECT_DIR$/Fitness_Tracker/Fitness_Tracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Programming.iml" filepath="$PROJECT_DIR$/.idea/Java_Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Measurement_Conversion/Measurement_Conversion.iml" filepath="$PROJECT_DIR$/Measurement_Conversion/Measurement_Conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number_Systems/Number_Systems.iml" filepath="$PROJECT_DIR$/Number_Systems/Number_Systems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number_Systems-Convereter/Number_Systems-Convereter.iml" filepath="$PROJECT_DIR$/Number_Systems-Convereter/Number_Systems-Convereter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Randomness/Randomness.iml" filepath="$PROJECT_DIR$/Randomness/Randomness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Signs/Signs.iml" filepath="$PROJECT_DIR$/Signs/Signs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GDEvaluator/goodDay_Evaluator.iml" filepath="$PROJECT_DIR$/GDEvaluator/goodDay_Evaluator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subsetSum/subsetSum.iml" filepath="$PROJECT_DIR$/subsetSum/subsetSum.iml" />
+    </modules>
+  </component>
+</project>
